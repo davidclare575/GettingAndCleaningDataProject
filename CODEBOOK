@@ -1,0 +1,26 @@
+All of the rows are a single subject's means of means and standard deviations for every variable measured for a single activity.
+
+The variables were:
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+The first column is SUBJECT.
+The second column is ACTIVITY.
+The rest are the means of the means and standard deviations of the variables listed above.
+
+All variables were normalized to be between -1 and 1.
